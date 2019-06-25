@@ -2,10 +2,10 @@
 def find_element_index(array, value_to_find)
   
    array.length.times do  |index|
-    array[index] = subject
-   if value_to_find == subject 
+   
+   if value_to_find == array[index] 
     
-     index 
+    return index 
   
   else
     nil
