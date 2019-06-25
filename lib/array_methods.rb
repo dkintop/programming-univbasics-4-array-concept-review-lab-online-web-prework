@@ -17,13 +17,7 @@ end
   
 
 
-
-
-
-
-
-
-
+#methods below this line work properly:
 
 def find_max_value(array)
   max_value = 0
@@ -42,14 +36,6 @@ def find_max_value(array)
   
   return max_value
 end
-
-
-
-
-
-
-
-
 
 
 
