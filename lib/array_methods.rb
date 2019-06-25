@@ -38,6 +38,7 @@ def find_max_value(array)
     end
    
     puts max_value
+    return max_value
   end
   
   
