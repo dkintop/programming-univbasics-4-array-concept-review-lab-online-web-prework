@@ -34,13 +34,13 @@ def find_max_value(array)
       max_value = array [index]
     
     else
-      max_value + 0 = max_value
+      max_value = max_value
     end
    
-    
+    puts max_value
   end
   
-  max_value
+  
 end
 
 
