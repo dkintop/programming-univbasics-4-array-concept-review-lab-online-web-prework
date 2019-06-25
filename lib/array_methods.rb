@@ -55,5 +55,19 @@ end
 
 
 def find_min_value(array)
- 
+   min_value = 0
+  array.length.times do |index|
+    check = min_value - array[index]
+    
+    if check >=0 
+      min_value = array [index]
+    
+    else
+      min_value = min_value
+    end
+   
+    
+  end
+  
+  return min_value
 end
