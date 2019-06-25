@@ -36,7 +36,7 @@ def find_max_value(array)
     else
       max_value = max_value
     end
-    return max_value
+   max_value
     
   end
   
