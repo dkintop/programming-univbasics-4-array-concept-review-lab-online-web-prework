@@ -37,10 +37,10 @@ def find_max_value(array)
       max_value = max_value
     end
    
-    puts max_value
+    
   end
   
-  
+  return max_value
 end
 
 
