@@ -9,6 +9,7 @@ def find_element_index(array, value_to_find)
     
     index_location = index
   return index_location
+  
   else
    index_location = nil
 
