@@ -1,14 +1,4 @@
-  array.length.times do  |index|
-    array[index] = subject
-   if value_to_find == subject 
-    puts index 
-  
-  else
-    nil
 
-end
-end
-end
 def find_element_index(array, value_to_find)
  
   
